@@ -1,6 +1,6 @@
 '''Imported pytest and calculator folder to test_calculator'''
 import pytest
-from calculator import Calculator 
+from calculator import Calculator
 
 def test_addition():
     """Test that addition function works."""
